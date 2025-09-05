@@ -73,4 +73,4 @@ async def doubleCheckSchools():
     with open("../parsed_data/invalid-schools.txt", 'w', encoding="utf-8") as file:
         file.writelines(invalidSchools)
 
-asyncio.run(doubleCheckSchools())
+# asyncio.run(doubleCheckSchools())
