@@ -1,80 +1,3 @@
-Montessori Education Center Of The Rockies : dne
-Niagara County Community College : dne
-American Fitness And Nutrition Academy : dne
-Winonah'S International School Of Cosmetology : dne
-Yeshivat Hechal Shemuel : dne
-Fontbonne University : dne
-Bridgewater College : dne
-Saint Michael College Of Allied Health : dne
-San Francisco Film School : dne
-Lincoln Land Community College : dne
-Tri-Rivers Career Center : dne
-Mid-State Technical College : dne
-Academy Of Art University : dne
-Ridge Technical College : dne
-Stanford University : dne
-Northeast Technology Center : dne
-Williamsburg Technical College : dne
-Jna Institute Of Culinary Arts : dne
-Lander University : dne
-Depauw University : dne
-Berks Career & Technology Center : dne
-Ashtabula County Technical And Career Campus : dne
-Arrojo Cosmetology School : dne
-Catholic Distance University : dne
-John Brown University : brown university
-Board Of Trustees-Mississippi State Institutions Of Higher Learning : mississippi state university
-University System Of Maryland-Research Centers : university of maryland
-Carsten Institute Of Cosmetology : carsten aveda institute of new york
-Highlights Beauty Schools : dne
-Hastings College : university of california, hastings college of the law (now uc law san francisco)
-Touro University California : touro university
-American Sentinel University : sentinelle nord | sentinel north
-Saint Cloud State University : st. cloud state university
-Don Roberts School Of Hair Design : roberts wesleyan university
-Cuny City College : the city college of new york
-Gadsden Technical Institute : gadsden state community college
-New York Seminary : dne
-University Of Maryland, Baltimore : university of maryland
-Arclabs : arclabs welding school
-Suny At Albany : university at albany
-San Jacinto Community College : dne
-Marian Health Careers Center-Los Angeles Campus : dne
-San Jose-Evergreen Community College District : dne
-Reedley College : dne
-Trinity Christian College : dne
-South Florida State College : dne
-Sacred Heart Seminary And School Of Theology : dne
-Sioux Falls Seminary : dne
-Avi Career Training : dne
-Bridgevalley Community & Technical College : dne
-Mid-Del Technology Center : dne
-California International Business University : dne
-United Theological Seminary Of The Twin Cities : dne
-Brigham Young University-Idaho : dne
-Lake Region State College : dne
-Simpson University : dne
-Central Carolina Technical College : dne
-Luther Rice College & Seminary : dne
-Murray State University : dne
-University Of Saint Mary Of The Lake : dne
-Delta Beauty College : dne
-University Of Evansville : dne
-Brittany Beauty Academy : dne
-Prism Career Institute-West Atlantic City : dne
-Sacramento City College : dne
-Good Samaritan College Of Nursing And Health Science : dne
-Fairleigh Dickinson University-Metropolitan Campus : dne
-Leon Studio One School Of Beauty Knowledge : dne
-American Intercontinental University-Atlanta : dne
-Universidad Pentecostal Mizpa : dne
-Rudae'S School Of Beauty Culture-Ft Wayne : dne
-Northpoint Bible College : dne
-Wells College : dne
-Knox College : dne
-Graceland University-Lamoni : dne
-Colleen O'Haras Beauty Academy : dne
-Rutgers University-Camden : dne
 Laredo Beauty College Inc : dne
 Sebring Career Schools-Huntsville : dne
 College Of Biblical Studies-Houston : dne
@@ -83,7 +6,6 @@ Butler Beauty Academy : dne
 Heritage Valley Kennedy School Of Nursing : dne
 Beauty Technical College Inc : dne
 Southern School Of Beauty Inc : dne
-Eastwick College-Nutley : dne
 Saint Louis University : dne
 Maria College Of Albany : dne
 Snead State Community College : dne
@@ -112,7 +34,6 @@ Kutztown University Of Pennsylvania : dne
 Eastern Virginia Medical School : dne
 Phillips Theological Seminary : dne
 Brighton Center'S Center For Employment Training : dne
-Davis & Elkins College : davis and elkins college
 New York Chiropractic College : northeast college of health sciences
 Yeshiva Kollel Tifereth Elizer : mesivtha tifereth jerusalem of america
 World Class Academy Of Beauty Careers : class academy
@@ -125,10 +46,8 @@ Academy Of Interactive Entertainment : academy of interactive entertainment (aie
 Jolie Health & Beauty Academy-Cherry Hill : palm beach academy of health & beauty
 Bella Academy Of Cosmetology : university of oran 1 ahmed ben bella
 Radford M Locklin Technical College : radford university
-Chandler-Gilbert Community College : chandler/gilbert community college
 Raphael'S School Of Beauty Culture Inc-Boardman : raphaels school of beauty culture - boardman
 College Of International Esthetics Inc : london college of international business studies
-Miami University-Oxford : university of oxford
 Leons Beauty School Inc : altoona beauty school inc
 Escuela De Peritos Electricistas De Isabela Inc : escuela de peritos electricitas de isabela
 Catholic Theological Union At Chicago : catholic theological union
@@ -240,7 +159,6 @@ Sunstate Academy-Jones Technical Institute : sunstate academy
 Universidad Ana G. Mendez-Gurabo Campus : universidad ana g. méndez (uagm)
 Florida Career College-Hialeah : florida career college
 Nova Southeastern University : northern virginia community college
-Hussian College-Daymar College Nashville : hussian college
 Watkins College Of Art Design & Film : watkins college of art, design & film
 St Philip'S College : st. philip's college
 Gateway Community And Technical College : gateway community college
@@ -294,7 +212,6 @@ West Virginia University Hospital Departments Of Rad Tech And Nutrition : dne
 Cleveland Clinic Health System-School Of Diagnostic Imaging : dne
 Western University Of Health Sciences : dne
 Eastern Illinois University : dne
-Eastwick College-Hackensack : dne
 Naval Postgraduate School : dne
 Southwestern College : dne
 Mckendree University : dne
@@ -443,7 +360,6 @@ Brown Aveda Institute : aveda
 Northeastern University Lifelong Learning Network : northeastern university
 Tennessee School Of Beauty Of Knoxville Inc : university of tennessee, knoxville
 Wilkes-Barre Area Career And Technical Center Practical Nursing : wilkes - barre area career and technical center practical nursing
-University System Of Maryland : university of maryland
 St Louis College Of Health Careers-St Louis : st. louis college of health careers
 University Of Northwestern-St Paul : university of northwestern – st. paul
 Steven Papageorge Hair Academy : elaine steven beauty college
@@ -492,7 +408,6 @@ North Carolina Wesleyan College : dne
 Mcdowell Technical Community College : dne
 New England Culinary Institute : dne
 Anderson University : dne
-Brigham Young University-Hawaii : dne
 Hawaii Community College : dne
 Unlimited Cosmetology School : dne
 Glitz School Of Cosmetology : dne
@@ -593,7 +508,6 @@ Wofford College : dne
 Morehead State University : dne
 Lake Technical College : dne
 Rochester University : dne
-University Of Maryland Global Campus : dne
 Belle Academy Of Cosmetology Llc : dne
 Pathway Vocational Academy : dne
 Florida Coastal School Of Law : dne
@@ -622,7 +536,6 @@ Bard College : dne
 West Hills Community College District : dne
 Southwestern Assemblies Of God University : dne
 Emma'S Beauty Academy-Juana Diaz : dne
-Northeast Technology Center-Afton : dne
 Cambridge Technical Institute : university of cambridge
 John Paolo'S Xtreme Beauty Institute-Goldwell Product Artistry : the beauty institute
 Lynnes Welding Training-Bismarck : bismarck state college
@@ -656,7 +569,6 @@ Chattahoochee Valley Community College : dne
 South Arkansas Community College : dne
 Humboldt State University : dne
 Edic College : dne
-Prism Career Institute-Cherry Hill : dne
 Cda Technical Institute : dne
 St Catherine University : dne
 Saint Paul College : dne
@@ -724,7 +636,6 @@ Ohio Valley College Of Technology : ohio valley university
 Stautzenberger College-Brecksville : stautzenberger college - brecksville
 East Carolina University : carolina university
 Allen School-Jamaica : allen school - jamaica
-Northeast Technology Center-Pryor : northeast technology center - pryor
 Spa Tech Institute-Plymouth : school of planning and architecture, new delhi
 Augustana University : augustana college
 Moravian College : moravian university
@@ -732,7 +643,6 @@ St Olaf College : st. olaf college
 Yeshiva Yesoda Hatorah Vetz Chaim : dne
 The Healthcare Institute : max healthcare institute limited
 Florida International University : florida universitària
-Miami University-Middletown : university of miami
 The Art Institute Of Atlanta : the art institute
 Cloyd'S Beauty School 1 Inc : cloyds beauty school 1 inc
 The University Of America : the university of america high school
@@ -951,7 +861,6 @@ Bethel Seminary-San Diego : bethel seminary san diego
 Mech-Tech College : brooklyn technical high school
 Goldey-Beacom College : goldey - beacom college
 Rensselaer At Hartford : rensselaer polytechnic institute
-Hussian College-Daymar College Clarksville : hussian college
 Broome Delaware Tioga Boces-Practical Nursing Program : broome delaware tioga boces - practical nursing program
 American National University-Pikeville : american national university
 L Makeup Institute : brush up by vanshika, beauty & makeup institute
@@ -973,7 +882,6 @@ Med Academy : dne
 Textures Institute Of Cosmetology : dne
 Minnesota State Community And Technical College : dne
 Marketti Academy Of Cosmetology : dne
-Rutgers University-New Brunswick : dne
 Texas Southmost College : dne
 Four County Career Center : dne
 Holistic Massage Training Institute : dne
@@ -991,7 +899,6 @@ Virginia Military Institute : dne
 Tyler Junior College : dne
 Lee Professional Institute : dne
 Cecil College : dne
-American Intercontinental University : dne
 Walsh College : dne
 Mycomputercareer.Com : dne
 Villa Maria College : dne
@@ -1053,10 +960,8 @@ Caribbean Aviation Training Institute Inc : jet age aviation training institute 
 Kent State University At East Liverpool : kent state university
 Southeast Community College Area : southeast community college
 Dental Assistant Pro-Lebanon : dental assistant pro llc - lebanon
-Marian Health Careers Center-Van Nuys Campus : marian health careers center - van nuys campus
 Pivot Point Academy : pivot point academy dresden
 University Of South Carolina-Lancaster : university of south carolina lancaster
-University Of Maryland-College Park : university of maryland
 Notre Dame College : university of notre dame
 Eagle Gate College-Layton : eagle gate college
 Smith College : smith school of business at queen's university
@@ -1141,7 +1046,6 @@ Aviator College Of Aeronautical Science And Technology : aviator college of aero
 Rabbinical Seminary Mkor Chaim : rabbinical seminary m'kor chaim
 Pomeroy College Of Nursing At Crouse Hospital : crouse hospital school of nursing
 Rob Roy Academy-New Bedford : rob roy academy - new bedford
-Brookline College-Tempe : brookline high school
 Michaels School Of Hair Design And Esthetics-Paul Mitchell Partner School : michaels school of hair design and esthetics - paul mitchell partner school
 Aveda Fredric'S Institute-Indianapolis : aveda fredric's institute
 University Of The Potomac-Va Campus : university of the potomac
@@ -1331,7 +1235,6 @@ Saint Anthony College Of Nursing : dne
 Henderson State University : dne
 Big Bend Technical College : big bend community college
 New England Law-Boston : new england law | boston
-Eastwick College-Ramsey : eastwick college
 College Of The Muscogee Nation : bit mesra noida b - school of it project management
 Auguste Escoffier School Of Culinary Arts-Boulder : auguste escoffier school of culinary arts
 Madison Oneida Boces-Practical Nursing Program : madison oneida boces - practical nursing program
@@ -1425,7 +1328,6 @@ St. Joseph'S College-Long Island : st. joseph's university new york
 State College Of Florida-Manatee-Sarasota : state college of florida - manatee - sarasota
 Red Lake Nation College : red lake county central high school
 Yeshiva Yesoda Hatorah Vetz Chaim : dne
-Hussian College-Los Angeles : hussian college
 Centerpoint Massage & Shiatsu Therapy School & Clinic : metàfora, art studio & art therapy school
 Roanoke-Chowan Community College : roanoke - chowan community college
 Oregon State University-Cascades Campus : oregon state university - cascades
@@ -1491,7 +1393,6 @@ Veritas Baptist College : dne
 Carson-Newman University : dne
 Virginia Polytechnic Institute And State University : dne
 Cisco College : dne
-University Of Maryland-Baltimore County : dne
 Aparicio-Levy Technical College : dne
 University Of Arkansas Community College-Morrilton : dne
 Alliant International University-San Diego : dne
@@ -1587,7 +1488,6 @@ Universidad Central Del Caribe : dne
 Wood County School Of Practical Nursing : dne
 Seattle Central College : dne
 Mansfield University Of Pennsylvania : dne
-Hussian College-Philadelphia : dne
 Georgia Southern University : dne
 Georgia Southwestern State University : dne
 University Of The West : dne
@@ -1611,7 +1511,6 @@ Kor Beauty Academy : dne
 San Diego Global Knowledge University : dne
 Zorganics Institute Beauty And Wellness : dne
 American Beauty Academy-West Valley Campus : american beauty academy
-Rutgers University-Newark : rutgers university
 Southwestern Community College : southwestern law school
 Texas A & M International University : international university - vnu hcmc
 Central Lakes College-Brainerd : central lakes college
@@ -1702,7 +1601,6 @@ Dayton School Of Medical Massage : university of dayton school of law
 American Film Institute Conservatory : the american film institute
 Pacific University : university of the pacific
 New England Tractor Trailer Training School Of Massachusetts : new england tractor trailer training school (nettts)
-Brookline College-Albuquerque : the art center design college - albuquerque
 Capri College-Davenport : capri college - davenport
 Metropolitan State University : metropolitan state university of denver
 Presbyterian Theological Seminary In America : austin presbyterian theological seminary
@@ -1801,7 +1699,6 @@ Edp University Of Puerto Rico Inc-San Juan : edp university of puerto rico, inc
 University Of South Florida-Sarasota-Manatee : university of south florida sarasota - manatee
 Purdue University-Main Campus : purdue university
 Barton County Community College : barton community college
-American Intercontinental University-Houston : american intercontinental university
 Auguste Escoffier School Of Culinary Arts-Austin : auguste escoffier school of culinary arts
 Ntma Training Centers Of Southern California : southern university and a&m college - baton rouge
 Columbus College Of Art And Design : college of art
@@ -2028,7 +1925,6 @@ Morningside College : morningside college cuhk
 Intellitec College-Colorado Springs : 
 Long Island Beauty School-Hempstead : long island beauty school - hempstead
 New Hope Christian College-Eugene : new hope christian college
-Northeast Technology Center-Kansas : northeast technology center - kansas
 Linfield University-School Of Nursing : linfield university
 Educational Technical College-Recinto De Coamo : educational technical college - recinto de coamo
 Capital Community College : capital community college magnet academy
@@ -2065,7 +1961,6 @@ Sacred Heart Major Seminary : dne
 Boston Graduate School Of Psychoanalysis Inc : dne
 University Of Maine At Presque Isle : dne
 Rockingham Community College : dne
-Brookline College-Tucson : dne
 Little Priest Tribal College : dne
 Elmira College : dne
 Meadville Lombard Theological School : dne
@@ -2104,7 +1999,6 @@ Pine Technical & Community College : dne
 Itasca Community College : dne
 Summit Academy Opportunities Industrialization Center : dne
 Northern Maine Community College : dne
-Hussian College-Daymar College Bowling Green : dne
 Southwestern College : dne
 Hebrew Theological College : dne
 Saint Joseph'S College Of Maine : dne
@@ -2117,7 +2011,6 @@ Edp University Of Puerto Rico-Manati : dne
 Florida Career College-Margate : dne
 Academy Di Firenze : dne
 Yeshiva Of Far Rockaway Derech Ayson Rabbinical Seminary : dne
-The 
 International Diving Institute : dne
 Cheyney University Of Pennsylvania : dne
 Jolie Hair And Beauty Academy-Wilkes-Barre : dne
@@ -2295,7 +2188,6 @@ Bryn Mawr College : dne
 Susquehanna University : dne
 Oglala Lakota College : dne
 Wilmington College : dne
-Miami University-Hamilton : dne
 Center For The Healing Arts : dne
 City University Of Seattle : dne
 Ohio Media School-Valley View : dne
@@ -2312,7 +2204,6 @@ Dartmouth College : dne
 Artistic Nails And Beauty Academy-Tampa : dne
 Eden Theological Seminary : dne
 Capri Beauty College : dne
-Highlights Beauty Schools : dne
 Compu-Med Vocational Careers Corp : dne
 Indiana University-South Bend : dne
 Charter Oak State College : dne
@@ -2327,7 +2218,6 @@ Cosmetology School Of Arts And Science Llc : cosmetology school of arts and scie
 Ameritech College-Provo : ameritech college of healthcare
 Bridges Beauty College : bridges
 Lyle'S College Of Beauty : lyles college of beauty
-Prism Career Institute-Philadelphia : prism career institute - philadelphia
 Lenape Technical School Practical Nursing Program : lenape area vocational technical school practical nursing program
 Spa Tech Institute-Ipswich : spa tech institute - ipswich
 The Baptist College Of Florida : florida universitària
@@ -2360,7 +2250,6 @@ University Of St Thomas : dne
 Ohlone College : dne
 Capital University : dne
 Redlands Community College : dne
-Northeast Technology Center-Claremore : dne
 Sacred Heart University : dne
 G Skin & Beauty Institute : dne
 Vermont Technical College : dne
@@ -2624,8 +2513,6 @@ Bradford School : dne
 Seminario Evangelico De Puerto Rico : dne
 Euphoria Institute Of Beauty Arts & Sciences-Summerlin : euphoria institute of beauty arts & sciences
 The Recording Conservatory Of Austin : the sheffield institute for the recording arts
-George Washington University : the george washington university
-Valor Christian College : valor christian high school
 San Ignacio University : społeczna akademia nauk
 Central Community College : the royal central school of speech and drama
 Suny College At Potsdam : state university of new york college at potsdam
@@ -2633,12 +2520,5 @@ UC Berkeley : university of california, berkeley
 Futura Career Institute : futura institute of management studies - india
 Minnesota School Of Cosmetology-Plymouth Campus : campus
 Woodruff Medical Training And Testing : welder training and testing institute
-Brookline College-Phoenix : anthem college - phoenix
 Cox College : smu cox school of business
-Culver-Stockton College : culver - stockton college
-Orleans Niagara Boces-Practical Nursing Program : orleans niagara boces - practical nursing program
 University Of Maine-System Central Office : the royal central school of speech and drama
-Cuny Kingsborough Community College : kingsborough community college
-Gods Bible School And College : god's bible school & college
-Schuyler Steuben Chemung Tioga Allegany Boces : schuyler - steuben - chemung - tioga - allegany boces
-Hussian College-Daymar College Murfreesboro : hussian college
